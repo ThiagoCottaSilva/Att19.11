@@ -1,0 +1,71 @@
+.h6, h6 {
+    font-size: 70;
+    margin: auto;
+    text-align: center;
+    background-color:rgb(black);
+}
+div#inicio1.inicio{
+    background-color:rgb(255, 255, 255);
+}
+.navbar-brand{
+    display: inline-block;
+    margin-right: 5rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+
+.col-sm-10{
+    color: rgb(255, 255, 255);
+}
+
+.col-sm-2 {
+    color: rgb(255, 255, 255);
+}
+
+.msg_cadastrar{
+    height: 87px;
+    width: 100%;
+    border-bottom: 3px solid black;
+}
+
+.panel-danger:hover {
+    background: red;
+  }
+
+section{
+    padding-top: 55px;
+    padding-bottom: 15px;
+}
+
+section#contato {
+    min-height: 80vh;   
+}
+
+
+.divslider{
+    
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background:#007bff80;
+}
+
+
+.div_colorida{
+   background:#007bff80; 
+    
+}
+
+.contato textarea {
+    height: 150px;   
+}
+
+.contato .aviso {
+   padding: 15px; 
+}  
+
+footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background: url(bgslider.png); 
+}
